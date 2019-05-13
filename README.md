@@ -1,4 +1,4 @@
-# Projet-System-Protocol-Scripts
+# Projet-System-Protocol-et-Scripts
 this project is about setting up an HTTP web server two DNS master and slave and a webpage for the site carnofluxe.com,plus the scripts 
 
 the bash scripts:
